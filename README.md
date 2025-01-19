@@ -63,6 +63,10 @@ I have experience with a wide range of technologies, including:
 
 #### General Search Query in Any SQL Database
 - **[general_search_query](https://github.com/bogdancstrike/general_search_query)**: A Java-based repository for general search query implementations.
+  
+#### Scrapers
+- **[euronews-scraper](https://github.com/bogdancstrike/euronews-scraper)**: A Python-based scraper for extracting content from Euronews.
+- **[biziday-scraper](https://github.com/bogdancstrike/biziday-scraper)**: A Python-based scraper for extracting content from Biziday.
 
 #### Documentations
 - **[istio-microservices-example](https://github.com/bogdancstrike/istio-microservices-example)**: A Python-based example demonstrating microservices architecture with Istio.
