@@ -12,12 +12,12 @@ I’m passionate about software architecture, creating scalable and secure solut
 
 I have experience with a wide range of technologies, including:
 
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: Spring Boot, Flask, React
-- **Databases**: PostgreSQL, Elasticsearch, Redis, MySQL
-- **DevOps & Orchestration**: Docker, Kubernetes, Helm, Kafka
+- **Languages**: Python, Java, NodeJS, JavaScript, TypeScript
+- **Frameworks**: Spring Boot, Flask, Express, React, Angular
+- **Databases**: PostgreSQL, Elasticsearch, Redis, MySQL, MongoDB
+- **DevOps & Orchestration**: Docker, Kubernetes, Helm
 - **Cloud**: AWS
-- **Tools**: GitHub, GitLab, Jenkins
+- **Tools**: GitLab, Jenkins, Kafka, RabbitMQ, Nginx
 
 ---
 
@@ -48,6 +48,7 @@ I have experience with a wide range of technologies, including:
 ---
 
 ## GitHub Stats
+(though most repositories are private)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bogdancstrike)
 
