@@ -57,6 +57,7 @@ I have experience with a wide range of technologies, including:
 ### Popular Public Repositories
 
 #### Low Code Scalable ETL Workers
+- **[framework-pipeline-etl](https://github.com/bogdancstrike/framework-pipeline-etl)**: A framework designed for scalable and low-code ETL (Extract, Transform, Load) pipelines.
 - **[kafka-workers](https://github.com/bogdancstrike/kafka-workers)**: Python-based Kafka worker template for creating and managing data processing pipelines.
 - **[kafka-workers-visualizer](https://github.com/bogdancstrike/kafka-workers-visualizer)**: A JavaScript-based visualization tool for monitoring Kafka workers.
 
