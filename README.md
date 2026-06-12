@@ -85,7 +85,7 @@ I have experience with a wide range of technologies, including:
 ### Popular Public Repositories
 
 #### AI, RAG & GPU Infrastructure
-- **[rag-poc](https://github.com/bogdancstrike/rag-poc)**: A Retrieval-Augmented Generation platform focused on OSINT and intelligence analysis, combining Elasticsearch-based retrieval, local LLM integration, Kafka-based background tasks, and a React-based analyst interface.
+- **[qRAG](https://github.com/bogdancstrike/qRAG)**: A Retrieval-Augmented Generation platform focused on OSINT and intelligence analysis, combining Elasticsearch-based retrieval, local LLM integration, Kafka-based background tasks, and a React-based analyst interface.
 - **[HAMi-kubernetes-gpu-partitioning-demo](https://github.com/bogdancstrike/HAMi-kubernetes-gpu-partitioning-demo)**: A Kubernetes GPU partitioning demo using HAMi, focused on GPU sharing, resource optimization, and AI workload scheduling.
 
 #### Frameworks & Platform Engineering
