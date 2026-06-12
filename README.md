@@ -2,9 +2,11 @@
 
 ## About Me
 
-I'm a Full-Stack Software Engineer with expertise in Java and Python. 
+I'm a Full-Stack Software Engineer with expertise in Java and Python.
 
 I’m passionate about software architecture, creating scalable and secure solutions, and leading successful projects. My role includes hands-on coding, designing solid architectures, and setting up reliable deployments on Kubernetes and cloud platforms.
+
+I also work with Kubernetes-native AI infrastructure, GPU workloads, model serving, observability, and scalable OSINT/data-processing platforms.
 
 ---
 
@@ -13,11 +15,15 @@ I’m passionate about software architecture, creating scalable and secure solut
 I have experience with a wide range of technologies, including:
 
 - **Languages**: Python, Java, NodeJS, JavaScript, TypeScript
-- **Frameworks**: Spring Boot, Flask, Express, React, Angular
+- **Frameworks**: Spring Boot, Flask, FastAPI, Express, React, Angular
 - **Databases**: PostgreSQL, Elasticsearch, Redis, MySQL, MongoDB
-- **DevOps & Orchestration**: Docker, Kubernetes, Helm
+- **Messaging & Streaming**: Kafka, RabbitMQ
+- **DevOps & Orchestration**: Docker, Docker Compose, Kubernetes, Helm
+- **Kubernetes & Platform Engineering**: ArgoCD, Istio, Ingress NGINX, KServe, HAMi, GPU workloads
+- **AI / ML Infrastructure**: RAG, LLM integration, model serving, GPU sharing, inference workloads
+- **Observability**: Grafana, Prometheus, OpenTelemetry, Jaeger, Kibana, ELK stack
 - **Cloud**: AWS
-- **Tools**: GitLab, Jenkins, Kafka, RabbitMQ, Nginx
+- **Tools**: GitLab, Jenkins, Nginx
 
 ---
 
@@ -40,7 +46,20 @@ I have experience with a wide range of technologies, including:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original-wordmark.svg" alt="opentelemetry" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original-wordmark.svg" alt="opentelemetry" width="45" height="45"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitmq"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="argocd"/>
+  <img src="https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white" alt="istio"/>
+  <img src="https://img.shields.io/badge/KServe-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kserve"/>
+  <img src="https://img.shields.io/badge/HAMi-GPU%20Sharing-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="hami"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GPU%20Workloads-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="nvidia"/>
+  <img src="https://img.shields.io/badge/Jaeger-Tracing-66CFE3?style=for-the-badge" alt="jaeger"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
 </p>
 
 ---
@@ -65,27 +84,23 @@ I have experience with a wide range of technologies, including:
 
 ### Popular Public Repositories
 
-#### Low Code Scalable ETL Workers
-- **[framework-pipeline-etl](https://github.com/bogdancstrike/framework-pipeline-etl)**: A framework designed for scalable and low-code ETL (Extract, Transform, Load) pipelines.
-- **[kafka-workers](https://github.com/bogdancstrike/kafka-workers)**: Python-based Kafka worker template for creating and managing data processing pipelines.
-- **[kafka-workers-visualizer](https://github.com/bogdancstrike/kafka-workers-visualizer)**: A JavaScript-based visualization tool for monitoring Kafka workers.
+#### AI, RAG & GPU Infrastructure
+- **[rag-poc](https://github.com/bogdancstrike/rag-poc)**: A Retrieval-Augmented Generation platform focused on OSINT and intelligence analysis, combining Elasticsearch-based retrieval, local LLM integration, Kafka-based background tasks, and a React-based analyst interface.
+- **[HAMi-kubernetes-gpu-partitioning-demo](https://github.com/bogdancstrike/HAMi-kubernetes-gpu-partitioning-demo)**: A Kubernetes GPU partitioning demo using HAMi, focused on GPU sharing, resource optimization, and AI workload scheduling.
 
-#### General Search Query in Any SQL Database
-- **[general_search_query](https://github.com/bogdancstrike/general_search_query)**: A Java-based repository for general search query implementations.
-  
+#### Frameworks & Platform Engineering
+- **[qf-framework](https://github.com/bogdancstrike/qf-framework)**: A framework-oriented project focused on reusable application structure, scalable backend components, and platform-style development patterns.
+
 #### Scrapers
-- **[euronews-scraper](https://github.com/bogdancstrike/euronews-scraper)**: A Python-based scraper for extracting content from Euronews.
-- **[biziday-scraper](https://github.com/bogdancstrike/biziday-scraper)**: A Python-based scraper for extracting content from Biziday.
+- **[hermes-scraper](https://github.com/bogdancstrike/hermes-scraper)**: A scraper project focused on automated content extraction and data collection workflows.
 
 #### Documentations
 - **[istio-microservices-example](https://github.com/bogdancstrike/istio-microservices-example)**: A Python-based example demonstrating microservices architecture with Istio.
-- **[smart-home-design-patterns](https://github.com/bogdancstrike/smart-home-design-patterns)**: A Java-based repository demonstrating various design patterns applied to smart home solutions.
 - **[medium-clone-aws-serverless](https://github.com/bogdancstrike/medium-clone-aws-serverless)**: A JavaScript implementation of a Medium-like blog platform, designed to be deployed using AWS serverless architecture.
-
+- **[smart-home-design-patterns](https://github.com/bogdancstrike/smart-home-design-patterns)**: A Java-based repository demonstrating various design patterns applied to smart home solutions.
 
 ---
 
 ## Feel Free to Contact Me
 
 If you'd like to reach out, feel free to send me a message on [GitHub](https://github.com/bogdancstrike). I'm open to any questions you might have regarding my projects!
-
