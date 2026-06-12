@@ -48,7 +48,18 @@ I have experience with a wide range of technologies, including:
 ## GitHub Stats
 (though most repositories are private)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bogdancstrike)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bogdancstrike&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&theme=tokyonight" height="165" alt="Bogdan's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bogdancstrike&hide=html,jupyter%20notebook&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight&bg_color=00000000" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bogdancstrike/bogdancstrike/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bogdancstrike/bogdancstrike/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/bogdancstrike/bogdancstrike/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
