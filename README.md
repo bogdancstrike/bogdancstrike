@@ -16,13 +16,13 @@ I have experience with a wide range of technologies, including:
 
 - **Languages**: Python, Java, NodeJS, JavaScript, TypeScript
 - **Frameworks**: Spring Boot, Flask, FastAPI, Express, React, Angular
-- **Databases**: PostgreSQL, Elasticsearch, Redis, MySQL, MongoDB
+- **Databases & Data Stores**: PostgreSQL, Elasticsearch, Redis, MySQL, MongoDB, Neo4j, Qdrant
 - **Messaging & Streaming**: Kafka, RabbitMQ
 - **DevOps & Orchestration**: Docker, Docker Compose, Kubernetes, Helm
-- **Kubernetes & Platform Engineering**: ArgoCD, Istio, Ingress NGINX, KServe, HAMi, GPU workloads
-- **AI / ML Infrastructure**: RAG, LLM integration, model serving, GPU sharing, inference workloads
+- **Kubernetes & Platform Engineering**: ArgoCD, Istio, Ingress NGINX, KServe, kro, HAMi, GPU workloads
+- **AI / ML Infrastructure**: RAG, LLM integration, model serving, LiteLLM, Langfuse, GPU sharing, inference workloads
 - **Observability**: Grafana, Prometheus, OpenTelemetry, Jaeger, Kibana, ELK stack
-- **Cloud**: AWS
+- **Cloud**: AWS, Azure
 - **Tools**: GitLab, Jenkins, Nginx
 
 ---
@@ -90,6 +90,10 @@ I have experience with a wide range of technologies, including:
 
 #### Frameworks & Platform Engineering
 - **[qf-framework](https://github.com/bogdancstrike/qf-framework)**: A framework-oriented project focused on reusable application structure, scalable backend components, and platform-style development patterns.
+- **[qf-framework-fastapi](https://github.com/bogdancstrike/qf-framework-fastapi)**: An async-first FastAPI and asyncio framework for HTTP APIs and reliable Kafka worker pipelines, including bounded concurrency, retries, Redis-backed joins, and observability.
+
+#### Applications & Communication
+- **[Convo](https://github.com/bogdancstrike/convo)**: A self-hosted organizational messaging platform with end-to-end encrypted chats, groups, channels, audio/video calls, Keycloak SSO, and web/Android clients (pre-release).
 
 #### Scrapers
 - **[hermes-scraper](https://github.com/bogdancstrike/hermes-scraper)**: A scraper project focused on automated content extraction and data collection workflows.
