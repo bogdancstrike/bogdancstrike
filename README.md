@@ -85,11 +85,9 @@ I have experience with a wide range of technologies, including:
 ### Popular Public Repositories
 
 #### AI, RAG & GPU Infrastructure
-- **[qRAG](https://github.com/bogdancstrike/qRAG)**: A Retrieval-Augmented Generation platform focused on OSINT and intelligence analysis, combining Elasticsearch-based retrieval, local LLM integration, Kafka-based background tasks, and a React-based analyst interface.
 - **[HAMi-kubernetes-gpu-partitioning-demo](https://github.com/bogdancstrike/HAMi-kubernetes-gpu-partitioning-demo)**: A Kubernetes GPU partitioning demo using HAMi, focused on GPU sharing, resource optimization, and AI workload scheduling.
 
 #### Frameworks & Platform Engineering
-- **[qf-framework](https://github.com/bogdancstrike/qf-framework)**: A framework-oriented project focused on reusable application structure, scalable backend components, and platform-style development patterns.
 - **[qf-framework-fastapi](https://github.com/bogdancstrike/qf-framework-fastapi)**: An async-first FastAPI and asyncio framework for HTTP APIs and reliable Kafka worker pipelines, including bounded concurrency, retries, Redis-backed joins, and observability.
 
 #### Applications & Communication
@@ -97,11 +95,6 @@ I have experience with a wide range of technologies, including:
 
 #### Scrapers
 - **[hermes-scraper](https://github.com/bogdancstrike/hermes-scraper)**: A scraper project focused on automated content extraction and data collection workflows.
-
-#### Documentations
-- **[istio-microservices-example](https://github.com/bogdancstrike/istio-microservices-example)**: A Python-based example demonstrating microservices architecture with Istio.
-- **[medium-clone-aws-serverless](https://github.com/bogdancstrike/medium-clone-aws-serverless)**: A JavaScript implementation of a Medium-like blog platform, designed to be deployed using AWS serverless architecture.
-- **[smart-home-design-patterns](https://github.com/bogdancstrike/smart-home-design-patterns)**: A Java-based repository demonstrating various design patterns applied to smart home solutions.
 
 ---
 
