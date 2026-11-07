@@ -84,16 +84,22 @@ I have experience with a wide range of technologies, including:
 
 ### Popular Public Repositories
 
-#### AI, RAG & GPU Infrastructure
+#### AI, Machine Learning & Data Processing
+- **[nemotron-transcribe](https://github.com/bogdancstrike/nemotron-transcribe)**: A private, self-hosted transcription studio for Nemotron 3.5 Transcribe, with audio/video uploads, transcript review, speaker identification, and local inference.
+- **[jev-pipeline-analysis](https://github.com/bogdancstrike/jev-pipeline-analysis)**: An on-premises text enrichment pipeline offering up to 15 analyses, including entity extraction, topic classification, sentiment, risk assessment, and event clustering.
+
+#### Kubernetes & GPU Infrastructure
 - **[HAMi-kubernetes-gpu-partitioning-demo](https://github.com/bogdancstrike/HAMi-kubernetes-gpu-partitioning-demo)**: A Kubernetes GPU partitioning demo using HAMi, focused on GPU sharing, resource optimization, and AI workload scheduling.
 
-#### Frameworks & Platform Engineering
+#### Frameworks & Backend Engineering
 - **[qf-framework-fastapi](https://github.com/bogdancstrike/qf-framework-fastapi)**: An async-first FastAPI and asyncio framework for HTTP APIs and reliable Kafka worker pipelines, including bounded concurrency, retries, Redis-backed joins, and observability.
 
-#### Applications & Communication
+#### Applications & Developer Tools
 - **[Convo](https://github.com/bogdancstrike/convo)**: A self-hosted organizational messaging platform with end-to-end encrypted chats, groups, channels, audio/video calls, Keycloak SSO, and web/Android clients (pre-release).
+- **[image-organizer](https://github.com/bogdancstrike/image-organizer)**: A local-first photo and video organizer with intelligent categorization, face recognition, photo culling, semantic search, and reversible file operations.
+- **[codenotch-ubuntu](https://github.com/bogdancstrike/codenotch-ubuntu)**: A GNOME Shell desktop notch for Ubuntu displaying AI coding assistant usage limits, clock, weather, and system metrics.
 
-#### Scrapers
+#### Data Collection & Scraping
 - **[hermes-scraper](https://github.com/bogdancstrike/hermes-scraper)**: A scraper project focused on automated content extraction and data collection workflows.
 
 ---
